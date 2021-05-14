@@ -128,9 +128,9 @@ USE_TZ = True
 #email stuff
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = '587'
-EMAIL_HOST_USER = 'kc508275@gmail.com'
-# DEFAULT_FROM_EMAIL = 'kc508275@gmail.com'
-EMAIL_HOST_PASSWORD = '9063917425kc2001'
+EMAIL_HOST_USER = '<----add your gmail ------>'
+
+EMAIL_HOST_PASSWORD = '<--password-->'
 EMAIL_USE_TLS =True
 
 STATIC_URL = '/static/'

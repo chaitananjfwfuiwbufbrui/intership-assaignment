@@ -8,6 +8,7 @@
 
 * python manage.py runserver
 
+* add your gmail in settings.py
 
 ---
 
