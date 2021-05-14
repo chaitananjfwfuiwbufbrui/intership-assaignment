@@ -4,6 +4,6 @@
 
 * create virtual envirorment
 
-* pip install -r requirements.tx
+* pip install -r requirements.txt
 
 * python manage.py runserver
