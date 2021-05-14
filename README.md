@@ -14,8 +14,8 @@
 ### endpoints of the app
 
 1. **create user** :
-        * _endpoint_: http://127.0.0.1:8000/users/
-        * _request_ :{ "email":"mailaddress@.com",
+        *_endpoint_: http://127.0.0.1:8000/users/
+        *_request_ :{ "email":"mailaddress@.com",
             "Name":"name of the user",
     
 
@@ -26,8 +26,8 @@
          }
          
 2. **user activatiom** :
-        * _endpoint_: http://127.0.0.1:8000/users/activation/
-        * _request_ : {
+        *_endpoint_: http://127.0.0.1:8000/users/activation/
+        *_request_ : {
             "uid":"uid",
             "token":"---token------"
             }
